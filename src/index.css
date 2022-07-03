@@ -1,0 +1,8 @@
+body {
+	margin: 0;
+}
+
+.main {
+	flex: 1 1 auto;
+	margin: 15px 0;
+}
